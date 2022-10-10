@@ -1,3 +1,3 @@
 # SideCar
 
-Applet that converts CSV files exported from the F3 and into the ERP of companiy's choice (at a project level).
+Applet that puts CSV file contents, exported from the F3, into the ERP of company's choice (at a project level) using ERP's API.
